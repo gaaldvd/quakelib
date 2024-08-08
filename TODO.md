@@ -20,4 +20,4 @@
   - [USGS: GeoJSON summary](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
   - [USGS: GeoJSON detail](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson_detail.php)
 - [QuakeML 2.0](https://quake.ethz.ch/quakeml/QuakeML2.0)
-  -[USGS: QuakeML summary](https://earthquake.usgs.gov/earthquakes/feed/v1.0/quakeml.php)
+  - [USGS: QuakeML summary](https://earthquake.usgs.gov/earthquakes/feed/v1.0/quakeml.php)
