@@ -1,5 +1,8 @@
 # quakelib
 
-**A Python library for collecting and managing earthquake data from various providers.**
+**A Python library for collecting and managing earthquake data.**
 
-## Historical data
+## Historical earthquakes
+
+> [!NOTE]
+> Development ongoing...
